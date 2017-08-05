@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # SpellCheck
+=======
+# Transliteration
+>>>>>>> origin/master
 
 ### Description
 
